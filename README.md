@@ -1,8 +1,8 @@
-# 🎬 Amazing NestJS - NestJS Framework (Hindi) | Youtube Series
+# 🎬 Amazing NestJS - NestJS Framework
 
 ---
 
-## Youtube Playlist [Link](https://bit.ly/3titPk3)
+## Video Tutorial[Link](https://bit.ly/3titPk3)
 
 This repository contains the source codes of the video lectures.
 
@@ -54,11 +54,3 @@ To follow along with the APIs developed in the course, you can choose from these
 - CQRS
 - Microservices
 - Hybrid-apps
-
-## Stay in touch 👋
-
-Youtube Channel [Computer Baba](https://www.youtube.com/c/ComputerBabaOfficial)
-
-Twitter [@akacomputerbaba](https://twitter.com/akacomputerbaba)
-
-Discord Server [Link](https://discord.gg/9V4VTDM)
